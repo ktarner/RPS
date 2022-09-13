@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(255,230,247);
+    margin: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+    padding: 15px;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+    padding: 15px;
+}
+
+p{
+    padding: 10px;
+    color: palevioletred;
+    font-size: larger;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: palevioletred;
+}
+
+button {
+    background-color: rgb(255,230,247);
+    padding: 50px;
+    border-radius: 50%;
+    font-size: larger;
+}
+
